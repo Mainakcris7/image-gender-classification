@@ -24,7 +24,7 @@ Feel free to use `gender_detector.keras` model without running the whole script 
 
 
 
-![Logo](https://cdn-icons-png.flaticon.com/512/5003/5003847.png)
+![Logo](https://static.vecteezy.com/system/resources/previews/018/922/122/original/3d-gender-symbol-sign-png.png)
 
 
 ## 🚀 About Me
