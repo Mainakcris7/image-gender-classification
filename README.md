@@ -24,7 +24,7 @@ Feel free to use `gender_detector.keras` model without running the whole script 
 
 
 
-![Logo](https://storage.googleapis.com/kaggle-datasets-images/160647/367625/0647aabbdace35f501176fcda5af48d1/dataset-card.png?t=2019-04-09-11-08-51)
+![Logo](https://cdn-icons-png.flaticon.com/512/5003/5003847.png)
 
 
 ## 🚀 About Me
