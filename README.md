@@ -17,8 +17,8 @@ Feel free to use `gender_detector.keras` model without running the whole script 
 
 
 
-
-After cloning my project, naivgate to the project directory and run:
+### Streamlit app
+After cloning my project, naivgate to the project directory and run the following command on terminal or shell
 
 ```python
 python -m streamlit run .\streamlit_app.py
