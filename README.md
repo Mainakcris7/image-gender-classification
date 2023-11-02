@@ -18,6 +18,12 @@ Feel free to use `gender_detector.keras` model without running the whole script 
 
 
 
+After cloning my project, naivgate to the project directory and run:
+
+```python
+python -m streamlit run .\streamlit_app.py
+```
+
 
 
 
@@ -39,7 +45,7 @@ Feel free to use `gender_detector.keras` model without running the whole script 
 - tensorflow
 - keras
 - sklearn
-
+- streamlit
 
 ## Authors
 
